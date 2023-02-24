@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="_1">Введите_1</string>
+    <string name="_2">Введите_2</string>
+    <string name="ok">Ok</string>
+    <string name="tvMessage">Example</string>
+</resources>
